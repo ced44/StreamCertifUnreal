@@ -1080,3 +1080,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.05-18.10.48:358][236]LogContentValidation: Display: Validating Blueprint /Game/Zazel/BP/BP_playerCharacter.BP_playerCharacter
 [2021.12.05-18.10.53:353][571]BlueprintLog: New page: Compile BP_playerCharacter
 [2021.12.05-18.10.53:453][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.12.05-18.32.27:634][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.12.05-18.36.01:832][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.12.05-18.36.01:858][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zazel/BP/BP_playerCharacter" FILE="G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Content/Zazel/BP/BP_playerCharacter.uasset" SILENT=true
+[2021.12.05-18.36.01:876][ 30]LogSavePackage: Moving 'G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Saved/BP_playerCharacter62B6BE4C46D07D84C21A0D82F88B8027.tmp' to 'G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Content/Zazel/BP/BP_playerCharacter.uasset'
+[2021.12.05-18.36.01:888][ 30]AssetCheck: New page: Asset Save: BP_playerCharacter
+[2021.12.05-18.36.01:888][ 30]LogContentValidation: Display: Validating Blueprint /Game/Zazel/BP/BP_playerCharacter.BP_playerCharacter
+[2021.12.05-18.36.59:068][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.05-18.36.59:093][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zazel/BP/BP_playerCharacter" FILE="G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Content/Zazel/BP/BP_playerCharacter.uasset" SILENT=true
+[2021.12.05-18.36.59:108][667]LogSavePackage: Moving 'G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Saved/BP_playerCharacterEAD4F77C460F052688211E9951D2EE6F.tmp' to 'G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Content/Zazel/BP/BP_playerCharacter.uasset'
+[2021.12.05-18.36.59:120][667]AssetCheck: New page: Asset Save: BP_playerCharacter
+[2021.12.05-18.36.59:120][667]LogContentValidation: Display: Validating Blueprint /Game/Zazel/BP/BP_playerCharacter.BP_playerCharacter
+[2021.12.05-18.37.00:033][774]BlueprintLog: New page: Compile BP_playerCharacter
+[2021.12.05-18.37.00:081][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.12.05-18.37.21:962][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.12.05-18.37.21:988][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zazel/BP/BP_playerCharacter" FILE="G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Content/Zazel/BP/BP_playerCharacter.uasset" SILENT=true
+[2021.12.05-18.37.22:006][275]LogSavePackage: Moving 'G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Saved/BP_playerCharacter471C01754F3089CAA26FD6BAB2BAFB30.tmp' to 'G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Content/Zazel/BP/BP_playerCharacter.uasset'
+[2021.12.05-18.37.22:018][275]AssetCheck: New page: Asset Save: BP_playerCharacter
+[2021.12.05-18.37.22:018][275]LogContentValidation: Display: Validating Blueprint /Game/Zazel/BP/BP_playerCharacter.BP_playerCharacter
+[2021.12.05-18.37.32:742][546]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.05-18.37.32:742][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.05-18.37.32:793][546]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Zazel/BP/BP_GM_GameBomberman.BP_GM_GameBomberman
+[2021.12.05-18.38.30:080][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.12.05-18.38.30:110][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zazel/BP/BP_playerCharacter" FILE="G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Content/Zazel/BP/BP_playerCharacter.uasset" SILENT=true
+[2021.12.05-18.38.30:126][931]LogSavePackage: Moving 'G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Saved/BP_playerCharacterD97B96194294771E5C9EC6BAA6792BD8.tmp' to 'G:/UNREAL_project/StreamCertifUnreal/Zazel_bomberman/Content/Zazel/BP/BP_playerCharacter.uasset'
+[2021.12.05-18.38.30:140][931]AssetCheck: New page: Asset Save: BP_playerCharacter
+[2021.12.05-18.38.30:140][931]LogContentValidation: Display: Validating Blueprint /Game/Zazel/BP/BP_playerCharacter.BP_playerCharacter
+[2021.12.05-18.38.33:473][321]BlueprintLog: New page: Compile BP_playerCharacter
+[2021.12.05-18.38.33:525][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
